@@ -1,0 +1,15 @@
+{
+	"bot":
+	{
+		"name": "0",
+		"password": "0",
+		"token": "0"
+	},
+
+	"server":
+	{
+		"address": "127.0.0.1",
+		"port": "1234",
+		"password": "1234"
+	}
+}
